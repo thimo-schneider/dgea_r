@@ -1,0 +1,28 @@
+{
+    "id": "030AB937",
+    "path": "~/Masterarbeit/edger_dgea/dgea_r/dgea.Rmd",
+    "project_path": "dgea.Rmd",
+    "type": "r_markdown",
+    "hash": "1941551513",
+    "contents": "",
+    "dirty": false,
+    "created": 1669747708470.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,0",
+        "scrollLine": "5",
+        "marks": "<:19,28\n>:19,28"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1669754618,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1669754618605,
+    "read_only": false,
+    "read_only_alternatives": []
+}

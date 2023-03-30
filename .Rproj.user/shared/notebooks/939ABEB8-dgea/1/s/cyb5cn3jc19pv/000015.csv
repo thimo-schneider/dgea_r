@@ -1,0 +1,4 @@
+"0","inputData <- as.data.frame(rjson::fromJSON(file = ""../data_model/dgea_input_data.json""))"
+"0","counts_data_file <- paste(c(inputData$inputData.counts.path, inputData$inputData.counts.file_name), sep="""", collapse="""")"
+"0","sample_info_file <- paste(c(inputData$inputData.sample_info.path, inputData$inputData.sample_info.file_name), sep="""", collapse="""")"
+"0","dex_status_column <- inputData$parameters.treatment_status.parameter"
