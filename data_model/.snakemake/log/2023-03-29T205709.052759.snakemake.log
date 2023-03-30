@@ -1,0 +1,3 @@
+WorkflowError in line 3 of /home/thimo/Masterarbeit/edger_dgea/data_model/snakefile:
+Workflow defines configfile ./workflow_descriptor.json but it is not present or accessible.
+  File "/home/thimo/Masterarbeit/edger_dgea/data_model/snakefile", line 3, in <module>
