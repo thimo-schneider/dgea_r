@@ -1,6 +1,6 @@
 {
   "image": "coffeeginger/masterarbeit:new",
-  "repository": "test",
+  "repository": "https://thimo-schneider@github.com/thimo-schneider/dgea_r",
   "irods_environment": {
     "irods_host": "172.16.218.139",
     "irods_port": 1247,
